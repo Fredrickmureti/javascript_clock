@@ -215,7 +215,7 @@
       }))), React.createElement("div", {
         className: "author"
       }, " ", "Designed and Coded by ", React.createElement("br", null), React.createElement("a", {
-        href: "https://www.freecodecamp.org/no-stack-dub-sack",
+        href: "https://www.freecodecamp.org/devFredrickmureti",
         target: "_blank",
         rel: "noreferrer"
       }, "Peter Weinberg")), React.createElement("audio", {
